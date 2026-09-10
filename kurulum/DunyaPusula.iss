@@ -5,7 +5,7 @@
 ; calistiriyor; bu yuzden yonetici hakki sart (PrivilegesRequired=admin).
 
 #define UygulamaAdi "Dünya Pusula"
-#define Surum "1.0.1"
+#define Surum "1.0.2"
 #define Yayinci "Safer"
 #define ExeAdi "DunyaPusula.exe"
 
