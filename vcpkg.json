@@ -1,0 +1,20 @@
+{
+  "name": "ram-temizleyici-pro",
+  "version": "2.0.0",
+  "builtin-baseline": "e03dc9b29710050cd1018bc5674688108658d327",
+  "dependencies": [
+    {
+      "name": "qtbase",
+      "default-features": false,
+      "features": ["widgets", "gui", "network"]
+    },
+    {
+      "name": "qtdeclarative",
+      "default-features": false
+    },
+    {
+      "name": "qtshadertools",
+      "default-features": false
+    }
+  ]
+}

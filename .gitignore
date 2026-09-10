@@ -1,0 +1,26 @@
+# Derleme ciktilari
+build/
+out/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Sensor ajani yayin ciktilari (.NET self-contained, ~72 MB)
+sensor/cikti/
+sensor/cikti2/
+sensor/bin/
+sensor/obj/
+
+# Kurulum ciktisi
+kurulum/cikti/
+
+# vcpkg gunlukleri ve yerel calisma dosyalari
+*.log
+scratchpad/
+
+# Editor / IDE
+.vs/
+.vscode/
+.idea/
